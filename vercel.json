@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/latency",
+      "destination": "/api/index"
+    }
+  ]
+}\n
